@@ -3,8 +3,8 @@ be based on vue.js and flask build personal blog system
 > 个人博客
 
 ### 项目已部署，在线Demo
-- 前台博客：http://jiushianzhoua.top/
-- 后台管理系统: http://jiushianzhoua.top/permission/login (账号:anzhou,密码:123456)
+- 前台博客：http://www.jiushianzhoua.top/
+- 后台管理系统: http://www.jiushianzhoua.top/permission/login (账号:anzhou,密码:123456)
 
 ### 前端所用技术
 - 后台页面
